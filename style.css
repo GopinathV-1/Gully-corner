@@ -152,14 +152,20 @@ p span{
         padding-left: 10%;
         text-align: left;
     }
+    .single img{
+        width: 100%;
+    }
     .single .button{
         text-align: center;
         padding-right: 30%;
     }
-    #logo{
-        width: 10%;
+    .cart{
+        margin-left: 60%;
     }
     #align{
         margin: 10% 10% 10% 30%;
+    }
+    .jumbotron #logo{
+        width: 30%;
     }
 }
